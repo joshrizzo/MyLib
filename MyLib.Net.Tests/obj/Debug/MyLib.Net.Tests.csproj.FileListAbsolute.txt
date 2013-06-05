@@ -1,0 +1,2 @@
+D:\MyLib.NET\MyLib.Net.Tests\obj\Debug\MyLib.Net.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.Net.Tests\obj\Debug\MyLib.Net.Tests.csprojResolveAssemblyReference.cache

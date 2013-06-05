@@ -1,0 +1,49 @@
+D:\MyLib.NET\MyLib.NET\bin\Debug\MyLib.NET.dll.config
+D:\MyLib.NET\MyLib.NET\bin\Debug\MyLib.NET.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\MyLib.NET.pdb
+D:\MyLib.NET\MyLib.NET\bin\Debug\AutoMapper.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\dotless.Core.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\Elmah.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\EntityFramework.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\FluentMongo.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\log4net.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\Microsoft.Web.Optimization.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\MongoDB.Bson.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\MongoDB.Driver.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\Omu.ValueInjecter.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\PGK.Extensions.dll
+D:\MyLib.NET\MyLib.NET\bin\Debug\AutoMapper.xml
+D:\MyLib.NET\MyLib.NET\bin\Debug\EntityFramework.xml
+D:\MyLib.NET\MyLib.NET\bin\Debug\log4net.xml
+D:\MyLib.NET\MyLib.NET\bin\Debug\MongoDB.Bson.pdb
+D:\MyLib.NET\MyLib.NET\bin\Debug\MongoDB.Bson.xml
+D:\MyLib.NET\MyLib.NET\bin\Debug\MongoDB.Driver.pdb
+D:\MyLib.NET\MyLib.NET\bin\Debug\MongoDB.Driver.xml
+D:\MyLib.NET\MyLib.NET\bin\Debug\Omu.ValueInjecter.xml
+D:\MyLib.NET\MyLib.NET\obj\Debug\MyLib.NET.dll
+D:\MyLib.NET\MyLib.NET\obj\Debug\MyLib.NET.pdb
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MyLib.NET.dll.config
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MyLib.NET.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MyLib.NET.pdb
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\AutoMapper.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\dotless.Core.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\Elmah.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\EntityFramework.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\FluentMongo.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\log4net.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\Microsoft.Web.Optimization.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MongoDB.Bson.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MongoDB.Driver.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\PGK.Extensions.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\AutoMapper.xml
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\EntityFramework.xml
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\log4net.xml
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MongoDB.Bson.xml
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\MongoDB.Driver.xml
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\bin\Debug\Omu.ValueInjecter.xml
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\obj\Debug\MyLib.NET.csprojResolveAssemblyReference.cache
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\obj\Debug\MyLib.NET.dll
+C:\Users\Joshua C. Rizzo\Documents\GitHub\MyLib\MyLib.NET\obj\Debug\MyLib.NET.pdb
